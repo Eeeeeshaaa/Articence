@@ -1,0 +1,1 @@
+Built a voice-enabled Retrieval-Augmented Generation(RAG) assistant that can answer questions from large technical manuals. The system uses Whisper for speech-to-text, converts the query into embeddings, performs hybrid retrieval using both vector similarity and BM25 search, and then uses an LLM to generate a refined answer.
